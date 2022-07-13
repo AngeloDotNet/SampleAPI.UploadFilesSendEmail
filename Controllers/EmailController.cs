@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
-using API_UploadFiles_SendEmail.Models.InputModels;
-using API_UploadFiles_SendEmail.Models.Services.Infrastructure;
+using MailKit.Custom.InputModels;
+using MailKit.Custom.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
